@@ -1,0 +1,12 @@
+The game analyse the audio volume and doesn't save any of it.
+all audio data is destroyed after being processed 60 times per seconds.
+
+Other than that game data is saved on your phone.
+Google play store save information like country of instalation, device model, android version, but nothing telling me who you are.
+
+My code doesn't access any device information.
+
+For the ads, they are powered by Google so refer to Google Ads privacy policies and Admob privacy policies.
+I get information like how many ads where viewed, clicked, but nothing about you.
+
+For how you use the game, well all I know is what you tell me!
